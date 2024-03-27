@@ -14,3 +14,5 @@ Miria:Hello Amos
 Amos: Hello Miria, How are you doing today?
 Miria: Speed, I hope youre well, and i hope everything else is okay?
 Speed: Sure
+
+Amos: Okay, you all have met speed, now you can head back Home again!
