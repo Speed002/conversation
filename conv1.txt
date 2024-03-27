@@ -2,3 +2,5 @@ Speed: Hello Amos
 Amos: Hello Speed
 Speed: Good morning to you
 Amos: Good morning Speed, how are you doing today?
+Speed: Am okay, Is everything well?
+Amos: Hopefully, well!
