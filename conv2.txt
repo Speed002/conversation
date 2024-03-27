@@ -2,3 +2,5 @@ Amos: Have you seen my daughter Letasi?
 Speed: Yah, she's grown up mate.
 Amos: Yah, meet her! Hey Letasi
 Speed: Hey Letasi.
+Letasi: Hello Speed, How are you?
+Speed: Hello Letasi, is everything okay?
